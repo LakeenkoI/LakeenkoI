@@ -16,7 +16,7 @@
 <td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/LakeenkoI/blob/main/Attachments/Intelij_IDEA.svg" width="40" height="40"><br>IntelliJ IDEA</td>
 <td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/LakeenkoI/blob/main/Attachments/Java.svg" width="40" height="40"><br>Java</td>
 <td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/LakeenkoI/blob/main/Attachments/Gradle.svg" width="40" height="40"><br>Gradle</td>
-<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original-wordmark.svg" width="40" height="40"><br>Maven</td>
+<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/LakeenkoI/blob/main/Attachments/maven-svgrepo-com.svg" width="40" height="40"><br>Maven</td>
 <td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/LakeenkoI/blob/main/Attachments/JUnit5.svg" width="40" height="40"><br>JUnit5</td>
 </tr>
 <tr>
@@ -27,8 +27,8 @@
 </tr>
 <tr>
 <td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/LakeenkoI/blob/main/Attachments/Jenkins.svg" width="40" height="40"><br>Jenkins</td>
-<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="40" height="40"><br>GitLab CI/CD</td>
-<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40"><br>Docker</td>
+<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/LakeenkoI/blob/main/Attachments/gitlab-svgrepo-com.svg" width="40" height="40"><br>GitLab CI/CD</td>
+<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/LakeenkoI/blob/main/Attachments/docker-svgrepo-com.svg" width="40" height="40"><br>Docker</td>
 <td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/LakeenkoI/blob/main/Attachments/Github.svg" width="40" height="40"><br>Github</td>
 <td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/LakeenkoI/blob/main/Attachments/Allure.svg" width="40" height="40"><br>Allure Report</td>
 </tr>
