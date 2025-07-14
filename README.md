@@ -15,25 +15,40 @@
 <table>
 <tbody>
 <tr>
-<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/LakeenkoI/blob/main/Attachments/Intelij_IDEA.svg" width="40" height="40"><br>IntelliJ IDEA</td>
-<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/LakeenkoI/blob/main/Attachments/Java.svg" width="40" height="40"><br>Java</td>
-<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/LakeenkoI/blob/main/Attachments/Gradle.svg" width="40" height="40"><br>Gradle</td>
-<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/LakeenkoI/blob/main/Attachments/maven-svgrepo-com.svg" width="40" height="40"><br>Maven</td>
-<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/LakeenkoI/blob/main/Attachments/JUnit5.svg" width="40" height="40"><br>JUnit5</td>
+<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/LakeenkoI/blob/main/attachments
+/Intelij_IDEA.svg" width="40" height="40"><br>IntelliJ IDEA</td>
+<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/LakeenkoI/blob/main/attachments
+/Java.svg" width="40" height="40"><br>Java</td>
+<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/LakeenkoI/blob/main/attachments
+/Gradle.svg" width="40" height="40"><br>Gradle</td>
+<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/LakeenkoI/blob/main/attachments
+/maven-svgrepo-com.svg" width="40" height="40"><br>Maven</td>
+<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/LakeenkoI/blob/main/attachments
+/JUnit5.svg" width="40" height="40"><br>JUnit5</td>
 </tr>
 <tr>
-<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/LakeenkoI/blob/main/Attachments/RestAssured.svg" width="40" height="40"><br>REST assured</td>
-<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/LakeenkoI/blob/main/Attachments/Selenium(2).svg" width="40" height="40"><br>Selenium</td>
-<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/LakeenkoI/blob/main/Attachments/Selenide.svg" width="40" height="40"><br>Selenide</td>
-<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/LakeenkoI/blob/main/Attachments/Selenoid.svg" width="40" height="40"><br>Selenoid</td>
-<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/LakeenkoI/blob/main/Attachments/allure-testops.svg" width="40" height="40"><br>Allure TestOps</td>
+<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/LakeenkoI/blob/main/attachments
+/RestAssured.svg" width="40" height="40"><br>REST assured</td>
+<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/LakeenkoI/blob/main/attachments
+/Selenium(2).svg" width="40" height="40"><br>Selenium</td>
+<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/LakeenkoI/blob/main/attachments
+/Selenide.svg" width="40" height="40"><br>Selenide</td>
+<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/LakeenkoI/blob/main/attachments
+/Selenoid.svg" width="40" height="40"><br>Selenoid</td>
+<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/LakeenkoI/blob/main/attachments
+/allure-testops.svg" width="40" height="40"><br>Allure TestOps</td>
 </tr>
 <tr>
-<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/LakeenkoI/blob/main/Attachments/Jenkins.svg" width="40" height="40"><br>Jenkins</td>
-<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/LakeenkoI/blob/main/Attachments/gitlab-svgrepo-com.svg" width="40" height="40"><br>GitLab CI/CD</td>
-<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/LakeenkoI/blob/main/Attachments/docker-svgrepo-com.svg" width="40" height="40"><br>Docker</td>
-<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/LakeenkoI/blob/main/Attachments/Github.svg" width="40" height="40"><br>Github</td>
-<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/LakeenkoI/blob/main/Attachments/Allure.svg" width="40" height="40"><br>Allure Report</td>
+<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/LakeenkoI/blob/main/attachments
+/Jenkins.svg" width="40" height="40"><br>Jenkins</td>
+<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/LakeenkoI/blob/main/attachments
+/gitlab-svgrepo-com.svg" width="40" height="40"><br>GitLab CI/CD</td>
+<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/LakeenkoI/blob/main/attachments
+/docker-svgrepo-com.svg" width="40" height="40"><br>Docker</td>
+<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/LakeenkoI/blob/main/attachments
+/Github.svg" width="40" height="40"><br>Github</td>
+<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/LakeenkoI/blob/main/attachments
+/Allure.svg" width="40" height="40"><br>Allure Report</td>
 </tr>
 </tbody>
 </table>
@@ -50,7 +65,8 @@
 - ☁️ Локальный и удалённый запуск (Selenoid)
 - 🔁 Jenkins pipeline с параметрами `browser`, `threads`, `env`
 - 🧩 Модули: Поиск, Фильтр, Корзина, Главная, Карточка товара
-- 📹 Скриншоты + видеофиксация по падению через Allure Attachments
+- 📹 Скриншоты + видеофиксация по падению через Allure attachments
+- 
 - 🧠 Архитектура с кастомными исключениями, логами и аллюр-шагами
 
 🔗 [Перейти к репозиторию](https://github.com/LakeenkoI/kinash-ui-test)
