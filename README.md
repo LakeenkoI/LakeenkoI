@@ -18,7 +18,7 @@
 <td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/sourceItems/blob/main/source/Java.svg" width="40" height="40"><br>Java</td>
 <td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/sourceItems/blob/main/source/Gradle.svg" width="40" height="40"><br>Gradle</td>
 <td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/sourceItems/blob/main/source/JUnit5.svg" width="40" height="40"><br>JUnit5</td>
-<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" width="40" height="40"><br>Selenium</td>
+<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" width="40" height="40"><br>Selenium</td>
 <td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/sourceItems/blob/main/source/Selenide.svg" width="40" height="40"><br>Selenide</td>
 <td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/sourceItems/blob/main/source/Selenoid.svg" width="40" height="40"><br>Selenoid</td>
 </tr>
