@@ -39,16 +39,11 @@
 /allure-testops.svg" width="40" height="40"><br>Allure TestOps</td>
 </tr>
 <tr>
-<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/LakeenkoI/blob/main/attachments
-/Jenkins.svg" width="40" height="40"><br>Jenkins</td>
-<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/LakeenkoI/blob/main/attachments
-/gitlab-svgrepo-com.svg" width="40" height="40"><br>GitLab CI/CD</td>
-<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/LakeenkoI/blob/main/attachments
-/docker-svgrepo-com.svg" width="40" height="40"><br>Docker</td>
-<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/LakeenkoI/blob/main/attachments
-/Github.svg" width="40" height="40"><br>Github</td>
-<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/LakeenkoI/blob/main/attachments
-/Allure.svg" width="40" height="40"><br>Allure Report</td>
+<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/LakeenkoI/blob/main/attachments/Jenkins.svg" width="40" height="40"><br>Jenkins</td>
+<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/LakeenkoI/blob/main/attachments/gitlab-svgrepo-com.svg" width="40" height="40"><br>GitLab CI/CD</td>
+<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/LakeenkoI/blob/main/attachments/docker-svgrepo-com.svg" width="40" height="40"><br>Docker</td>
+<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/LakeenkoI/blob/main/attachments/Github.svg" width="40" height="40"><br>Github</td>
+<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/LakeenkoI/blob/main/attachments/Allure.svg" width="40" height="40"><br>Allure Report</td>
 </tr>
 </tbody>
 </table>
