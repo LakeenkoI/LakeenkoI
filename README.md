@@ -1,5 +1,4 @@
 <h1 align="center">Привет! Я Илья — FullStack QA Engineer 🚀</h1>
----
 
 ## 🧠 Кто я
 
