@@ -24,6 +24,7 @@
 <td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/LakeenkoI/blob/main/Attachments/Selenium(2).svg" width="40" height="40"><br>Selenium</td>
 <td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/LakeenkoI/blob/main/Attachments/Selenide.svg" width="40" height="40"><br>Selenide</td>
 <td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/LakeenkoI/blob/main/Attachments/Selenoid.svg" width="40" height="40"><br>Selenoid</td>
+<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/LakeenkoI/blob/main/Attachments/allure-testops.svg" width="40" height="40"><br>Allure TestOps</td>
 </tr>
 <tr>
 <td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/LakeenkoI/blob/main/Attachments/Jenkins.svg" width="40" height="40"><br>Jenkins</td>
