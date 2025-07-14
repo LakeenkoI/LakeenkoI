@@ -10,6 +10,27 @@
 
 ---
 
+## 🛠️ Tech Stack
+<table>
+<tbody>
+<tr>
+<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/sourceItems/blob/main/source/Intelij_IDEA.svg" width="40" height="40"><br>IntelliJ IDEA</td>
+<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/sourceItems/blob/main/source/Java.svg" width="40" height="40"><br>Java</td>
+<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/sourceItems/blob/main/source/Gradle.svg" width="40" height="40"><br>Gradle</td>
+<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/sourceItems/blob/main/source/JUnit5.svg" width="40" height="40"><br>JUnit5</td>
+<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/sourceItems/blob/main/source/Selenide.svg" width="40" height="40"><br>Selenide</td>
+<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/sourceItems/blob/main/source/Selenoid.svg" width="40" height="40"><br>Selenoid</td>
+</tr>
+<tr>
+<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/sourceItems/blob/main/source/Jenkins.svg" width="40" height="40"><br>Jenkins</td>
+<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/sourceItems/blob/main/source/Github.svg" width="40" height="40"><br>Github</td>
+<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/sourceItems/blob/main/source/Allure.svg" width="40" height="40"><br>Allure Report</td>
+</tr>
+</tbody>
+</table>
+
+---
+
 ## 🚀 Проекты
 
 ### 🧪 Kinash UI Tests  
@@ -38,19 +59,6 @@
 - 🧪 Использование JavaFaker для генерации имён персонажей
 
 🔗 [Перейти к репозиторию](https://github.com/LakeenkoI/lotr-java-game)
-
----
-
-## 🛠️ Tech Stack
-
-| Область         | Инструменты                                                                 |
-|------------------|------------------------------------------------------------------------------|
-| 🧪 Тестирование  | Selenide, JUnit5, Allure, JUnit Pioneer, Test Retry, AssertJ                |
-| ⚙️ CI/CD        | Jenkins (Freestyle & Pipeline), Allure Report CLI, Gradle/Maven             |
-| 🖥️ UI & Browser | Selenoid, WebDriverManager, Chrome/Firefox config                           |
-| 🔌 Интеграции   | OWNER (Config Management), Custom Listeners, LogEvents, TestWatcher          |
-| 📦 Backend/API  | (в планах) RestAssured, JSONSchema, Swagger tooling                         |
-| ☁️ DevOps        | (в процессе изучения) Docker, GitHub Actions, Kubernetes Basics             |
 
 ---
 
