@@ -27,7 +27,7 @@
 </tr>
 <tr>
 <td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/sourceItems/blob/main/source/Jenkins.svg" width="40" height="40"><br>Jenkins</td>
-<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" width="40" height="40"><br>Jenkins</td>
+<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="40" height="40"><br>GitLab CI/CD</td>
 
 <td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/sourceItems/blob/main/source/Github.svg" width="40" height="40"><br>Github</td>
 <td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/sourceItems/blob/main/source/Allure.svg" width="40" height="40"><br>Allure Report</td>
