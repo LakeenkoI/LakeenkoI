@@ -1,6 +1,4 @@
 <h1 align="center">Привет! Я Илья — FullStack QA Engineer 🚀</h1>
-<h3 align="center">Автоматизация + Аналитика + Глубокое понимание продукта</h3>
-
 ---
 
 ## 🧠 Кто я
@@ -69,8 +67,7 @@
 
 ## 📫 Контакты
 
-- 📧 Email: lakeenko.dev@gmail.com  
-- 🧩 GitHub: [github.com/LakeenkoI](https://github.com/LakeenkoI)
+- 📧 Email: lakeenkoii@mail.ru
 
 ---
 
