@@ -93,8 +93,3 @@
 🎯 Готов обсудить интересные вакансии в командах с инженерным мышлением.
 
 ---
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LakeenkoI&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LakeenkoI&layout=compact&theme=radical)
-
----
