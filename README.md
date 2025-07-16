@@ -15,28 +15,18 @@
 <table>
 <tbody>
 <tr>
-<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/LakeenkoI/blob/main/attachments
-/Intelij_IDEA.svg" width="40" height="40"><br>IntelliJ IDEA</td>
-<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/LakeenkoI/blob/main/attachments
-/Java.svg" width="40" height="40"><br>Java</td>
-<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/LakeenkoI/blob/main/attachments
-/Gradle.svg" width="40" height="40"><br>Gradle</td>
-<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/LakeenkoI/blob/main/attachments
-/maven-svgrepo-com.svg" width="40" height="40"><br>Maven</td>
-<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/LakeenkoI/blob/main/attachments
-/JUnit5.svg" width="40" height="40"><br>JUnit5</td>
+<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/LakeenkoI/blob/main/attachments/Intelij_IDEA.svg" width="40" height="40"><br>IntelliJ IDEA</td>
+<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/LakeenkoI/blob/main/attachments/Java.svg" width="40" height="40"><br>Java</td>
+<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/LakeenkoI/blob/main/attachments/Gradle.svg" width="40" height="40"><br>Gradle</td>
+<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/LakeenkoI/blob/main/attachments/maven-svgrepo-com.svg" width="40" height="40"><br>Maven</td>
+<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/LakeenkoI/blob/main/attachments/JUnit5.svg" width="40" height="40"><br>JUnit5</td>
 </tr>
 <tr>
-<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/LakeenkoI/blob/main/attachments
-/RestAssured.svg" width="40" height="40"><br>REST assured</td>
-<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/LakeenkoI/blob/main/attachments
-/Selenium(2).svg" width="40" height="40"><br>Selenium</td>
-<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/LakeenkoI/blob/main/attachments
-/Selenide.svg" width="40" height="40"><br>Selenide</td>
-<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/LakeenkoI/blob/main/attachments
-/Selenoid.svg" width="40" height="40"><br>Selenoid</td>
-<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/LakeenkoI/blob/main/attachments
-/allure-testops.svg" width="40" height="40"><br>Allure TestOps</td>
+<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/LakeenkoI/blob/main/attachments/RestAssured.svg" width="40" height="40"><br>REST assured</td>
+<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/LakeenkoI/blob/main/attachments/Selenium(2).svg" width="40" height="40"><br>Selenium</td>
+<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/LakeenkoI/blob/main/attachments/Selenide.svg" width="40" height="40"><br>Selenide</td>
+<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/LakeenkoI/blob/main/attachments/Selenoid.svg" width="40" height="40"><br>Selenoid</td>
+<td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/LakeenkoI/blob/main/attachments/allure-testops.svg" width="40" height="40"><br>Allure TestOps</td>
 </tr>
 <tr>
 <td align="center"><src="https://www.jetbrains.com/idea/"><img src="https://github.com/LakeenkoI/LakeenkoI/blob/main/attachments/Jenkins.svg" width="40" height="40"><br>Jenkins</td>
@@ -101,5 +91,10 @@
 ---
 
 🎯 Готов обсудить интересные вакансии в командах с инженерным мышлением.
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LakeenkoI&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LakeenkoI&layout=compact&theme=radical)
 
 ---
